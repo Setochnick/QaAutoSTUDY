@@ -1,0 +1,2 @@
+# QaAutoSTUDY
+For ITEA course
